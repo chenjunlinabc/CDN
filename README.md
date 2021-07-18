@@ -1,4 +1,4 @@
 # CDN
 
 
-CDN内容分发（jsdelivr+github）
+CDN内容分发（github+jsdelivr）
